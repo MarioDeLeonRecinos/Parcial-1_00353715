@@ -26,22 +26,37 @@
 .navbar-custom .nav-item:hover .nav-link {
     color: #ffffff !important;
 }
-#Maxisun{
+.Maxisun{
+    background: url(../img/fondo.jpg);
+    padding-top: 60em;
+    background-repeat: no-repeat;
+    background-size: 100% 75%;
     font-family: 'Monoton', cursive;
 }
 
 .logo{
     background: url(../img/logo.png);
 }
-.container {
+.container2 {
     position: relative;
     text-align: center;
     color: white;
+    height: 25%;
 }
 
 .centered {
     position: absolute;
+    font-size: 15em;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
+}
+
+.media-imagen{
+    height: 50%;
+}
+
+.microfono{
+    background: url(../img/contacus.jpg);
+    background-size: 100% 100%;
 }
