@@ -46,7 +46,6 @@
 
 .centered {
     position: absolute;
-    font-size: 15em;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
@@ -59,4 +58,36 @@
 .microfono{
     background: url(../img/contacus.jpg);
     background-size: 100% 100%;
+}
+ul{
+    list-style-type: none;
+}
+a{
+    color: white;
+    text-decoration: none;
+    background-color: none;
+}
+h5{
+    color: rgb(150, 100, 100);
+    font-size: 1.5em;
+}
+
+#texto{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1em
+}
+h1{
+    font-family: 'Monoton', cursive;
+    font-size: 15em
+}
+
+.fondo2{
+    background: url(../img/logo.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+img{
+    width: 10%;
+    height: auto;
 }
