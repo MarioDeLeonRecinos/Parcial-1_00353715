@@ -1,3 +1,11 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
 .navbar.center .navbar-inner {
     text-align: center !important;
 }
